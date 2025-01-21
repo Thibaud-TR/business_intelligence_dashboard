@@ -1,4 +1,4 @@
-#📈 Business Intelligence Dashboard
+# 📈 Business Intelligence Dashboard
 
 Here you can find the decision dashboard I made for the (fake) company Toys Ans Model
 
