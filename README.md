@@ -7,8 +7,7 @@
 - 🔧 **Tools :** SQL, PowerBI, PowerQuery, DAX
 
 
-### You can find attached the following files :
-
+You can find attached the following files :
 - **toys_and_models_dashboard.pbix** :
 This PowerBI file contains the interactive dashboard and SQL requests 
 
